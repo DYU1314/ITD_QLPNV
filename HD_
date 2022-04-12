@@ -1,0 +1,9 @@
+Em mới làm xong một phần Quản lý thông tin nhân viên và người dùng thoi ạ.
+
+về Data: em dùng MSSQL file .sql có sẳn 1 tài khoản admin
+	tên tài khoản là admin
+	mật khẩu là admin
+sao khi Execute file .sql thành công thì có thể vào thư mục ~\project\project\project\bin\Debug\
+và chạy file project.exe
+
+trong phần mềm có những phần thêm/cập nhật/xóa để quản lý thông tin nhân viên và tài khoản sử dụng
